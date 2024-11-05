@@ -1,0 +1,7 @@
+ConnectionFactory\DatabasePersistence.class
+com\mycompany\reservadehotel\ReservaDeHotel.class
+Classes\Pessoa.class
+Classes\Cliente.class
+Classes\Funcionario.class
+Classes\Quarto.class
+Classes\Reserva.class
